@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160914114559",
+    "node": "registry:dt/node#6.0.0+20161220160159",
+    "firebase": "registry:dt/firebase#2.4.1+20160412125105"
+  }
+}
